@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Sou **Engenheiro de Software Sênior & Product Manager** com 18 anos de experiência na criação de arquiteturas robustas, escaláveis e de alta performance. 
+Sou **Sênior Product Manager & Dev** com 18 anos de experiência na criação de arquiteturas robustas, escaláveis e de alta performance. 
 
 Atualmente, meu foco principal está no desenvolvimento de soluções de **DeepTech**, **Edge AI** e **IA Multimodal**. Construo pipelines offline e híbridos que rodam processamento local de visão computacional e agentes de voz inteligentes na borda (Edge Computing), unindo hardware dedicado, baixa latência e total privacidade de dados.
 
