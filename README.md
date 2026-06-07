@@ -6,24 +6,24 @@
   </a>
 </p>
 
-Sou **Sênior Product Manager & Dev** com 18 anos de experiência na criação de arquiteturas robustas, escaláveis e de alta performance. 
+I am a **Senior Product Manager & Developer** with 18 years of experience building robust, scalable, and high-performance architectures. 
 
-Atualmente, meu foco principal está no desenvolvimento de soluções de **DeepTech**, **Edge AI** e **IA Multimodal**. Construo pipelines offline e híbridos que rodam processamento local de visão computacional e agentes de voz inteligentes na borda (Edge Computing), unindo hardware dedicado, baixa latência e total privacidade de dados.
-
----
-
-### 🚀 Áreas de Atuação & Especialidades
-
-- **🎙️ Agentes de Voz & Telefonia (Conversational AI):** Desenvolvimento de agentes de voz inteligentes de baixíssima latência utilizando frameworks modernos como **LiveKit**, **Pipecat**, **WebRTC** e integrações nativas de telefonia via **SIP**.
-- **👁️ Visão Computacional na Borda (Edge AI):** Implementação e otimização de modelos de detecção em tempo real (**YOLO / YOLOv26**) rodando direto no silício de hardware dedicado (**NVIDIA Jetson AGX Orin** e reComputer RK). Conversão e aceleração de modelos usando **ONNX**, **CUDA** e **TensorRT**.
-- **🧠 IA Multimodal & Modelos Locais (Local LLM / RAG):** Configuração de pipelines locais de IA com **Ollama (LLMs offline)**, **Whisper** para transcrição em tempo real e arquiteturas avançadas de **Agentic RAG**.
-- **🔌 Integrações Corporativas & ERP:** Especialista em conectar ecossistemas de tecnologia modernos (Node/React/Next.js/n8n) com sistemas corporativos tradicionais, com foco em rotinas customizadas do ERP **TOTVS Protheus (ADVPL)** e automações avançadas.
+Currently, my main focus is on developing **DeepTech**, **Edge AI**, and **Multimodal AI** solutions. I build offline and hybrid pipelines that run local computer vision processing and intelligent voice agents at the edge (Edge Computing), combining dedicated hardware, low latency, and full data privacy.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas (Tech Stack)
+### 🚀 Expertise & Specialties
 
-#### 🧠 IA, Áudio & Visão Computacional (DeepTech)
+- **🎙️ Voice Agents & Telephony (Conversational AI):** Developing ultra-low latency intelligent voice agents using modern frameworks like **LiveKit**, **Pipecat**, **WebRTC**, and native telephony integrations via **SIP**.
+- **👁️ Edge Computer Vision (Edge AI):** Implementing and optimizing real-time object detection models (**YOLO / YOLOv26**) running directly on dedicated hardware silicon (**NVIDIA Jetson AGX Orin** and reComputer RK). Model conversion and acceleration using **ONNX**, **CUDA**, and **TensorRT**.
+- **🧠 Multimodal AI & Local Models (Local LLM / RAG):** Configuring local AI pipelines with **Ollama (offline LLMs)**, **Whisper** for real-time transcription, and advanced **Agentic RAG** architectures.
+- **🔌 Enterprise Integrations & ERP:** Specialist in connecting modern technology ecosystems (Node/React/Next.js/n8n) with legacy corporate systems, focusing on custom routines for **TOTVS Protheus ERP (ADVPL)** and advanced automations.
+
+---
+
+### 🛠️ Technologies & Tools (Tech Stack)
+
+#### 🧠 AI, Audio & Computer Vision (DeepTech)
 <p align="left">
   <img src="https://img.shields.io/badge/LiveKit-0052FF?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit" />
   <img src="https://img.shields.io/badge/Pipecat-FF6C37?style=for-the-badge" alt="Pipecat" />
@@ -34,7 +34,7 @@ Atualmente, meu foco principal está no desenvolvimento de soluções de **DeepT
   <img src="https://img.shields.io/badge/ONNX-005C99?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
 </p>
 
-#### ⚙️ Backend, CMS & Integrações
+#### ⚙️ Backend, CMS & Integrations
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -54,7 +54,7 @@ Atualmente, meu foco principal está no desenvolvimento de soluções de **DeepT
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-#### 🗄️ Infraestrutura, Bancos & Sistemas
+#### 🗄️ Infrastructure, Databases & Systems
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -65,16 +65,16 @@ Atualmente, meu foco principal está no desenvolvimento de soluções de **DeepT
 
 ---
 
-### 📊 Estatísticas do GitHub (My Stats)
+### 📊 GitHub Statistics (My Stats)
 
-Aqui estão as estatísticas atualizadas de desenvolvimento das minhas frentes de código. *(Nota: inclui minhas contribuições em repositórios privados, onde a maior parte da engenharia pesada de borda e comercial acontece).*
+Here are my up-to-date development statistics. *(Note: this includes my contributions to private repositories, where most of the heavy edge engineering and commercial development happens).*
 
 <p align="center">
   <a href="https://github.com/RobMartello">
-    <img src="https://github-readme-stats.vercel.app/api?username=RobMartello&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Robson" height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RobMartello&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Robson's GitHub Stats" height="195px" />
   </a>
   <a href="https://github.com/RobMartello">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMartello&layout=compact&theme=radical&count_private=true" alt="Linguagens mais utilizadas por Robson" height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMartello&layout=compact&theme=radical&count_private=true" alt="Robson's most used languages" height="195px" />
   </a>
 </p>
 
@@ -86,9 +86,9 @@ Aqui estão as estatísticas atualizadas de desenvolvimento das minhas frentes d
 
 ---
 
-### 📬 Conecte-se comigo! (Get in Touch)
+### 📬 Connect with me! (Get in Touch)
 
-Estou sempre aberto a trocar ideias sobre novas arquiteturas, engenharia de borda, IA multimodal ou desafios de integração complexa!
+I'm always open to discussing new architectures, edge engineering, multimodal AI, or complex integration challenges!
 
 <p align="left">
   <a href="mailto:robsonmartello@gmail.com">
