@@ -98,3 +98,9 @@ I'm always open to discussing new architectures, edge engineering, multimodal AI
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <sub><i>“The best way to predict the future is to invent it.”</i> — Alan Kay</sub>
+</p>
