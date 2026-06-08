@@ -24,7 +24,7 @@ Currently, my main focus is on developing **DeepTech**, **Edge AI**, and **Multi
 - **🎙️ Voice Agents & Telephony (Conversational AI):** Developing ultra-low latency intelligent voice agents using modern frameworks like **LiveKit**, **Pipecat**, **WebRTC**, and native telephony integrations via **SIP**.
 - **👁️ Edge Computer Vision (Edge AI):** Implementing and optimizing real-time object detection models (**YOLO / YOLOv26**) running directly on dedicated hardware silicon (**NVIDIA Jetson AGX Orin** and reComputer RK). Model conversion and acceleration using **ONNX**, **CUDA**, and **TensorRT**.
 - **🧠 Multimodal AI & Local Models (Local LLM / RAG):** Configuring local AI pipelines with **Ollama (offline LLMs)**, **Whisper** for real-time transcription, and advanced **Agentic RAG** architectures.
-- **🔌 Enterprise Integrations & ERP:** Specialist in connecting modern technology ecosystems (Node/React/Next.js/n8n) with legacy corporate systems, focusing on custom routines for **TOTVS Protheus ERP (ADVPL)** and advanced automations.
+- **🏠 0-to-1 SaaS & Real Estate Tech:** Building SaaS platforms for the real estate market from scratch, leveraging rapid prototyping and direct user validation to iterate fast, refine the product, and deliver maximum value.
 
 ---
 
