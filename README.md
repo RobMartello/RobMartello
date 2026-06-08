@@ -12,6 +12,13 @@ Currently, my main focus is on developing **DeepTech**, **Edge AI**, and **Multi
 
 ---
 
+### ⚡ Quick Facts
+- 🚀 Passionate about optimizing computer vision models to run efficiently on low-power edge hardware.
+- 🎙️ Designing AI voice agents that communicate with near-human latency.
+- 🤖 Firm believer in leveraging agentic workflows to automate complex enterprise integrations.
+
+---
+
 ### 🚀 Expertise & Specialties
 
 - **🎙️ Voice Agents & Telephony (Conversational AI):** Developing ultra-low latency intelligent voice agents using modern frameworks like **LiveKit**, **Pipecat**, **WebRTC**, and native telephony integrations via **SIP**.
