@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/RobMartello">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=500&lines=Senior+PM+%26+Software+Engineer;Deep+Tech+%26+Edge+AI;LiveKit+%2F+Pipecat+Voice+Agents;NVIDIA+Jetson+AGX+Orin+%26+YOLO;Full-Stack+%2B+TOTVS+Protheus+Integrations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=500&lines=Senior+PM+%26+Software+Engineer;Deep+Tech+%26+Edge+AI;LiveKit+%2F+Pipecat+Voice+Agents;NVIDIA+Jetson+AGX+Orin+%26+YOLO;Full-Stack+%26+SaaS+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
