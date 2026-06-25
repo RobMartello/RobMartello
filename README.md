@@ -29,6 +29,17 @@ My focus today is **AI agents** and **agentic payments** — autonomous machine-
 
 ---
 
+### 🧪 Now — What I'm Building
+
+- **Agentic payment rails** — autonomous M2M settlement with the [x402](https://www.x402.org) protocol, stablecoins, and the [Base](https://base.org) network.
+- **AI agents for operations** — multi-agent workflows that automate complex enterprise integrations and back-office processes.
+- **Edge AI systems** — low-latency voice agents and real-time computer vision running on-device.
+- **0-to-1 SaaS & PropTech** — taking products from idea to validated, shipped platforms.
+
+> 💬 Open to exchanging ideas on agentic commerce, AI platforms, and edge engineering.
+
+---
+
 ### 🛠️ Technologies & Tools (Tech Stack)
 
 #### 💸 Agentic Payments & Web3
