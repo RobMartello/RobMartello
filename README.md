@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RobMartello&label=Profile%20Views&color=39d353&style=for-the-badge" alt="Profile Views" />
+</p>
+
 I am a **Technical Product Leader** working at the intersection of **AI**, **Platform Engineering**, and **Digital Products**. Over **18+ years** I've operated where product, engineering, and business meet — across enterprise environments, consultancies, startups, and owned products — leading initiatives connected to **Olist**, **Bionexo**, **Porto Seguro**, **Mercedes-Benz**, SaaS platforms, **PropTech**, automation, **AI**, and operational systems.
 
 My focus today is **AI agents** and **agentic payments** — autonomous machine-to-machine (M2M) commerce powered by the **x402** protocol, **stablecoins**, and the **Base** network — alongside my ongoing work in **Edge AI** and multimodal voice/vision systems.
@@ -138,6 +142,10 @@ My focus today is **AI agents** and **agentic payments** — autonomous machine-
 ### 📬 Connect with me! (Get in Touch)
 
 I'm always open to discussing new architectures, edge engineering, multimodal AI, or complex integration challenges!
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open_to-Agentic_Commerce_%7C_AI_Platforms_%7C_Advisory-39d353?style=for-the-badge" alt="Open to opportunities" />
+</p>
 
 <p align="left">
   <a href="mailto:robsonmartello@gmail.com">
