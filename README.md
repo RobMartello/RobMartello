@@ -50,6 +50,17 @@ My focus today is **AI agents** and **agentic payments** — autonomous machine-
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/viem-1C1B1F?style=for-the-badge&logoColor=white" alt="viem" />
+  <img src="https://img.shields.io/badge/Coinbase_AgentKit-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Coinbase AgentKit" />
+  <img src="https://img.shields.io/badge/Coinbase_CDP-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Coinbase Developer Platform" />
+</p>
+
+#### 🤖 AI Agents & LLM Orchestration
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
 #### 🧠 AI, Audio & Computer Vision (DeepTech)
