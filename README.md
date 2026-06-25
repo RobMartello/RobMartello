@@ -2,33 +2,44 @@
 
 <p align="left">
   <a href="https://github.com/RobMartello">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=500&lines=Senior+PM+%26+Software+Engineer;Deep+Tech+%26+Edge+AI;LiveKit+%2F+Pipecat+Voice+Agents;NVIDIA+Jetson+AGX+Orin+%26+YOLO;Full-Stack+%26+SaaS+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=520&lines=Senior+PM+%26+Software+Engineer;AI+Agents+%26+Agentic+Workflows;Agentic+Payments%3A+x402+%26+M2M;Base+%2F+Stablecoins+%2F+Onchain;Edge+AI%2C+Voice+%26+Vision" alt="Typing SVG" />
   </a>
 </p>
 
-I am a **Senior Product Manager & Developer** with 18 years of experience building robust, scalable, and high-performance architectures. 
+I am a **Senior Product Manager & Engineer** with 18 years of experience shipping robust, scalable architectures.
 
-Currently, my main focus is on developing **DeepTech**, **Edge AI**, and **Multimodal AI** solutions. I build offline and hybrid pipelines that run local computer vision processing and intelligent voice agents at the edge (Edge Computing), combining dedicated hardware, low latency, and full data privacy.
+My focus today is **AI agents** and **agentic payments** — autonomous machine-to-machine (M2M) commerce powered by the **x402** protocol, **stablecoins**, and the **Base** network — alongside my ongoing work in **Edge AI** and multimodal voice/vision systems.
 
 ---
 
 ### ⚡ Quick Facts
-- 🚀 Passionate about optimizing computer vision models to run efficiently on low-power edge hardware.
-- 🎙️ Designing AI voice agents that communicate with near-human latency.
-- 🤖 Firm believer in leveraging agentic workflows to automate complex enterprise integrations.
+- 🤖 Building autonomous AI agents that can reason, act, and transact on their own.
+- 💸 Deep into agentic payments: M2M settlement with **x402**, **stablecoins** and **Base**.
+- 🎙️ Designing edge AI for low-latency voice agents and real-time computer vision.
 
 ---
 
 ### 🚀 Expertise & Specialties
 
-- **🎙️ Voice Agents & Telephony (Conversational AI):** Developing ultra-low latency intelligent voice agents using modern frameworks like **LiveKit**, **Pipecat**, **WebRTC**, and native telephony integrations via **SIP**.
-- **👁️ Edge Computer Vision (Edge AI):** Implementing and optimizing real-time object detection models (**YOLO / YOLOv26**) running directly on dedicated hardware silicon (**NVIDIA Jetson AGX Orin** and reComputer RK). Model conversion and acceleration using **ONNX**, **CUDA**, and **TensorRT**.
-- **🧠 Multimodal AI & Local Models (Local LLM / RAG):** Configuring local AI pipelines with **Ollama (offline LLMs)**, **Whisper** for real-time transcription, and advanced **Agentic RAG** architectures.
-- **🏠 0-to-1 SaaS & Real Estate Tech:** Building SaaS platforms for the real estate market from scratch, leveraging rapid prototyping and direct user validation to iterate fast, refine the product, and deliver maximum value.
+- **🤖 AI Agents & Agentic Workflows:** Autonomous and multi-agent systems that automate complex enterprise integrations.
+- **💸 Agentic Payments & Web3:** Machine-to-machine (M2M) payments with the **x402** protocol, **stablecoins**, and the **Base** network for autonomous, on-chain commerce.
+- **🎙️ Voice Agents & Edge AI:** Low-latency conversational agents (**LiveKit**, **Pipecat**, **SIP**) and real-time computer vision (**YOLO**, **NVIDIA Jetson**) at the edge.
+- **🧠 Local LLMs & RAG:** Offline/hybrid AI pipelines with **Ollama**, **Whisper**, and Agentic RAG.
+- **🏠 0-to-1 SaaS:** Building products from scratch with rapid prototyping and direct user validation.
 
 ---
 
 ### 🛠️ Technologies & Tools (Tech Stack)
+
+#### 💸 Agentic Payments & Web3
+<p align="left">
+  <img src="https://img.shields.io/badge/x402-000000?style=for-the-badge&logoColor=white" alt="x402" />
+  <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Base" />
+  <img src="https://img.shields.io/badge/USDC-2775CA?style=for-the-badge&logo=circle&logoColor=white" alt="USDC" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/viem-1C1B1F?style=for-the-badge&logoColor=white" alt="viem" />
+</p>
 
 #### 🧠 AI, Audio & Computer Vision (DeepTech)
 <p align="left">
@@ -72,16 +83,17 @@ Currently, my main focus is on developing **DeepTech**, **Edge AI**, and **Multi
 
 ---
 
-### 📊 GitHub Statistics (My Stats)
-
-Here are my up-to-date development statistics. *(Note: this includes my contributions to private repositories, where most of the heavy edge engineering and commercial development happens).*
+### 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/RobMartello">
-    <img src="https://github-readme-stats.vercel.app/api?username=RobMartello&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Robson's GitHub Stats" height="195px" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RobMartello&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/RobMartello">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMartello&layout=compact&theme=radical&count_private=true" alt="Robson's most used languages" height="195px" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobMartello&theme=react-dark&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
   </a>
 </p>
 
