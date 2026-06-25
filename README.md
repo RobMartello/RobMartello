@@ -2,11 +2,11 @@
 
 <p align="left">
   <a href="https://github.com/RobMartello">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=520&lines=Senior+PM+%26+Software+Engineer;AI+Agents+%26+Agentic+Workflows;Agentic+Payments%3A+x402+%26+M2M;Base+%2F+Stablecoins+%2F+Onchain;Edge+AI%2C+Voice+%26+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=600&lines=Technical+Product+Leader;AI%2C+Platform+Engineering+%26+Digital+Products;Agentic+Payments%3A+x402+%26+M2M;Base+%2F+Stablecoins+%2F+Onchain;18%2B+Years+of+Product+%26+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
-I am a **Senior Product Manager & Engineer** with 18 years of experience shipping robust, scalable architectures.
+I am a **Technical Product Leader** working at the intersection of **AI**, **Platform Engineering**, and **Digital Products**. Over **18+ years** I've operated where product, engineering, and business meet — across enterprise environments, consultancies, startups, and owned products — leading initiatives connected to **Olist**, **Bionexo**, **Porto Seguro**, **Mercedes-Benz**, SaaS platforms, **PropTech**, automation, **AI**, and operational systems.
 
 My focus today is **AI agents** and **agentic payments** — autonomous machine-to-machine (M2M) commerce powered by the **x402** protocol, **stablecoins**, and the **Base** network — alongside my ongoing work in **Edge AI** and multimodal voice/vision systems.
 
@@ -87,7 +87,7 @@ My focus today is **AI agents** and **agentic payments** — autonomous machine-
 
 <p align="center">
   <a href="https://github.com/RobMartello">
-    <img src="https://github-profile-trophy.vercel.app/?username=RobMartello&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobMartello&theme=radical&utcOffset=-3" alt="Productive Time" />
   </a>
 </p>
 
